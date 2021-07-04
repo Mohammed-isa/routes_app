@@ -34,8 +34,7 @@ class MyApp extends StatelessWidget {
         AttendanceLogScreen.id: (context) => AttendanceLogScreen(), //
         CustomSplashScreen.id: (context) => CustomSplashScreen(), //
         DeliveryInvoiceScreen.id: (context) => DeliveryInvoiceScreen(),
-        DeliveryPointDetailsScreen.id: (context) =>
-            DeliveryPointDetailsScreen(), //
+        DeliveryPointDetailsScreen.id: (context) => DeliveryPointDetailsScreen(), //
         DeliveryPointsScreen.id: (context) => DeliveryPointsScreen(), //
         DriverVerificationScreen.id: (context) => DriverVerificationScreen(),
         ExpenseManagerScreen.id: (context) => ExpenseManagerScreen(),
